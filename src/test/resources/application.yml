@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/mybatis_learning?serverTimezone=Asia/Shanghai
+    username: root
+    password: root
+#mybatis:
+#  mapper-locations: classpath:/com/tcl/pagehelper/mapper/*.xml
